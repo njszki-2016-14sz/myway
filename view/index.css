@@ -1,0 +1,11 @@
+body{
+	background:#FF033E;
+}
+
+#LogDrop{
+	height:100px;
+	width:100px;
+	background:#FF033E;
+	border:2px solid #E30022;
+	border-radius: 100%;
+}
