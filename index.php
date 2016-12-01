@@ -5,9 +5,7 @@
 	</head>
 	<body>
 		<div id="home">
-			<p>
-			MY WAY
-			</p>
+			<img src="view/title.png">
 		</div>
 		<div id="gombok">
 		<div id="login">

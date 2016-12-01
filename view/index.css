@@ -2,14 +2,15 @@ body{
 	background-color:#ff3333;
 }
 #home{
-	width:100%;
+	width:1024px;
+	margin:auto;
     text-align:center;
 }
 
 #gombok{
-	 position: absolute;
-  left: 50%;
-  margin-left: -100px;
+	position: absolute;
+	left: 50%;
+	margin-left: -125px;;
 }
 
 #login{
@@ -20,7 +21,7 @@ body{
 	border:1px solid #ff3333;
 	display:inline-block;
 	cursor:pointer;
-	color:whiter;
+	color:white;
 	font-family:Arial;
 	font-size:17px;
 	padding:16px 31px;
@@ -30,6 +31,15 @@ body{
 #login:hover {
 	background-color:white;
 	border-color:white;
+	color:#ff3333;
+}
+
+#login a,#register a{
+	text-decoration:none;
+	color:white;
+}
+
+#login a:hover,#register a:hover{
 	color:#ff3333;
 }
 
