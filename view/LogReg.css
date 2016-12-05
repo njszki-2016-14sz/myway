@@ -14,7 +14,7 @@ body{
 	border-radius:28px;
 }
 
-#input,#email,#password1,#password2,#fname,#sname{
+#input,#email,#password,#password1,#password2,#fname,#sname{
 	font-family:Arial;
 	margin:5px;
 	padding:5px;
