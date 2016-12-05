@@ -11,7 +11,7 @@
 		$count = mysql_num_rows($result);
 		if($count==1)
 		{
-			header('Location: ../view/Register.php');
+			header('Location: ../view/Home.php');
 		}
 
 	}

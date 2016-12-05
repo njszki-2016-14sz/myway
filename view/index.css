@@ -15,8 +15,6 @@ body{
 
 #login{
 	background-color:#ff3333;
-	-moz-border-radius:28px;
-	-webkit-border-radius:28px;
 	border-radius:28px;
 	border:1px solid #ff3333;
 	display:inline-block;
@@ -45,8 +43,6 @@ body{
 
 #register{
 	background-color:#ff3333;
-	-moz-border-radius:28px;
-	-webkit-border-radius:28px;
 	border-radius:28px;
 	border:1px solid #ff3333;
 	display:inline-block;
